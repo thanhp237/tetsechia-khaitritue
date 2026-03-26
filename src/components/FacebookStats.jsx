@@ -3,10 +3,10 @@ import { motion } from 'framer-motion';
 import { ThumbsUp, Share2, Eye, Users, ArrowUpRight } from 'lucide-react';
 
 const stats = [
-  { id: 1, label: 'Lượt xem Trang', value: '5.218', trend: '22%', icon: Eye, color: 'text-blue-500', bg: 'bg-blue-100' },
-  { id: 2, label: 'Lượt tương tác', value: '1.068', trend: '261%', icon: ThumbsUp, color: 'text-brand-orange', bg: 'bg-brand-orange/20' },
-  { id: 3, label: 'Người theo dõi', value: '458', trend: '6,443%', icon: Users, color: 'text-green-500', bg: 'bg-green-100' },
-  { id: 4, label: 'Lượt chia sẻ', value: '325', trend: '15%', icon: Share2, color: 'text-purple-500', bg: 'bg-purple-100' },
+  { id: 1, label: 'Lượt xem Trang', value: '14.054', trend: '100%', icon: Eye, color: 'text-blue-500', bg: 'bg-blue-100' },
+  { id: 2, label: 'Lượt tương tác', value: '1.615', trend: '100%', icon: ThumbsUp, color: 'text-brand-orange', bg: 'bg-brand-orange/20' },
+  { id: 3, label: 'Người theo dõi thực', value: '753', trend: '100%', icon: Users, color: 'text-green-500', bg: 'bg-green-100' },
+  { id: 4, label: 'Lượt thích Trang', value: '747', trend: '100%', icon: Share2, color: 'text-purple-500', bg: 'bg-purple-100' },
 ];
 
 const FacebookStats = () => {
