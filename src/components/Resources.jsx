@@ -134,7 +134,7 @@ const Resources = () => {
                             Với khả năng phân tích điểm yếu, AI sẽ tự động điều chỉnh độ khó và trộn câu hỏi liên tục. Dữ liệu sẽ tiếp tục được Đội ngũ dự án cập nhật dài hạn trong nhiều năm tới!
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4">
-                            <a href="https://arena-expired-promo-downloads.trycloudflare.com/OnlineExamSystem/login" target="_blank" rel="noreferrer" className="bg-gradient-to-r from-brand-orange to-brand-red hover:from-brand-red hover:to-brand-orange text-white font-bold py-3 px-8 rounded-full shadow-lg hover:shadow-xl transition-all flex justify-center items-center gap-2 group">
+                            <a href="https://vhquan.id.vn/OnlineExamSystem/login" target="_blank" rel="noreferrer" className="bg-gradient-to-r from-brand-orange to-brand-red hover:from-brand-red hover:to-brand-orange text-white font-bold py-3 px-8 rounded-full shadow-lg hover:shadow-xl transition-all flex justify-center items-center gap-2 group">
                                 Trải Nghiệm Nền Tảng Khác <ExternalLink className="w-5 h-5 group-hover:-translate-y-1 group-hover:translate-x-1 transition-transform" />
                             </a>
                         </div>
